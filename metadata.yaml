@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31678
     wikipedia: http://www.encyclopedia.com/topic/Thomas_James_Wise.aspx
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28834#The-Story-of-Yvashka-with-the-Bear-s-Ear
 gutenberg_issued: '2009-05-16'
 gutenberg_type: Text
 identifiers:
